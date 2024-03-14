@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Loading.unity
+    guid: 7418c5700c22d134299f478359268315
+  - enabled: 1
+    path: Assets/Scenes/Prolog.unity
+    guid: 49467df6501bd8d4da1d967c80814b0d
+  - enabled: 1
+    path: Assets/Scenes/Loading2.unity
+    guid: 6eb05d50c6fba6a4097557778d359ac3
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 1d87a2c6a78c533419662069e6b104f7
+  - enabled: 1
+    path: Assets/Scenes/Loading3.unity
+    guid: 1aa6e8bcf9e9a5c41b84375f1ce32084
+  - enabled: 1
+    path: Assets/Scenes/Game1.unity
+    guid: b89c8995738025d42a76bb6d09829ebc
+  - enabled: 1
+    path: Assets/Scenes/Loading4.unity
+    guid: 1ebf9dd6f6102f54bbaae86b099d3442
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 7f8e6f25d4ed4f145bec29e941a30d4c
+  - enabled: 1
+    path: Assets/Scenes/Loading5.unity
+    guid: 08726e66ecffb8349a928988cfd45a45
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: aee71bd24a817a04f81857254a0bda4f
+  m_configObjects: {}
